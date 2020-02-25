@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.imvlabs.hbey.SettingActivity">
+    <include layout="@layout/tool_bar"/>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/shareResultText"
+            android:gravity="left"
+            android:text="Share my results"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        <com.gc.materialdesign.views.Switch
+            android:id="@+id/shareResultSwitch"
+            android:layout_alignParentRight="true"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content" />
+    </RelativeLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="?android:attr/listDivider"/>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical">
+        <TextView
+            android:id="@+id/saved_history"
+            android:layout_margin="12dp"
+            android:gravity="left"
+            android:text="Saved history"
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.gc.materialdesign.views.Slider
+            android:paddingLeft="24dp"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@id/saved_history"
+            xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/historySlider"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            materialdesign:max="100"
+            materialdesign:min="1"
+            materialdesign:showNumberIndicator="true"/>
+    </RelativeLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="?android:attr/listDivider"/>
+    <Button
+        android:onClick="deleteAllHistory"
+        android:text="Clear All History"
+        android:gravity="left"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="@style/Widget.AppCompat.Button.Borderless"/>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="?android:attr/listDivider"/>
+
+
+</LinearLayout>

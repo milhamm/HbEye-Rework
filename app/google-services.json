@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "655363757593",
+    "firebase_url": "https://hbey-58d53.firebaseio.com",
+    "project_id": "hbey-58d53",
+    "storage_bucket": "hbey-58d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655363757593:android:6cec72b310dc7ae5d5bc88",
+        "android_client_info": {
+          "package_name": "com.imvlabs.hbey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655363757593-ch25r5d6nvejkofsmdgdtsh3danjku54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoIstEif88zqLL561WwVPhwkDuYmkj2fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655363757593-ch25r5d6nvejkofsmdgdtsh3danjku54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

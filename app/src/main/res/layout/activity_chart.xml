@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.imvlabs.hbey.ChartActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp"
+            android:orientation="vertical"
+            >
+            <com.github.mikephil.charting.charts.PieChart
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/kelaminChart"
+                >
+            </com.github.mikephil.charting.charts.PieChart>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+            <com.github.mikephil.charting.charts.PieChart
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/umurChart"
+                >
+
+            </com.github.mikephil.charting.charts.PieChart>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp">
+            <com.github.mikephil.charting.charts.PieChart
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/statusChart2"
+                >
+
+            </com.github.mikephil.charting.charts.PieChart>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

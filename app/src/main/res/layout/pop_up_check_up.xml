@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:visibility="visible"
+    android:weightSum="1">
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center_horizontal"
+        android:hint="your name here.." />
+
+    <EditText
+        android:id="@+id/userage"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:hint="your age here.."
+        android:inputType="number" />
+
+    <fr.ganfra.materialspinner.MaterialSpinner
+        android:id="@+id/usergender"
+        android:layout_width="253dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="5dp"
+        android:entries="@array/gender"
+        app:ms_arrowColor="#0000FF"
+        app:ms_arrowSize="16dp"
+        app:ms_enableFloatingLabel="false"
+        app:ms_hint="Gender"
+        app:ms_hintColor="#000000"
+        app:ms_multiline="true">
+
+    </fr.ganfra.materialspinner.MaterialSpinner>
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Submit"
+        android:layout_marginBottom="50dp"
+        android:textColor="@color/white"
+        android:background="@color/flamingo"
+        />
+
+</LinearLayout>

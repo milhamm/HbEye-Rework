@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#00838f</color>
+    <color name="ColorPrimaryDark">#006064</color>
+    <color name="ColorAccent">#9c27b0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="indicator">#ba68c8</color>
+    <!--<color name="colorAccent">#00C853</color>-->
+    <color name="circleImage">#147AED</color>
+    <color name="activity_bg">#e4e5e5</color>
+    <color name="Blue600">#1e88e5</color>
+    <color name="Green700">#00c853</color>
+    <color name="mediumPurple">#BF55EC</color>
+    <color name="caribbeanGreen">#03C9A9</color>
+    <color name="softRed">#EC644B</color>
+    <color name="flamingo">#EF4836</color>
+</resources>

@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_e2484f3edfb38d0c21d458c5b92380a18f70aef5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\3d06436e1021f36847d1db1bcabfba3a35e49ed2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e4557c6f783ae12a46cca8c13d74f0754e8d05b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\0088021ab23734c5a01556301bd9cccc81b78788\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98b6a996b37bcdd7d071b05ff0ffe7f2c48423b8">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_faba5f8e1ed1738eb86845ad57ac0b0b17d45925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\17f4569ed975b5bfad114ca942553a2e68a44d29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e9a33f80ff7d72cbb238e1b560a85e38b0129de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\ae9a68a03e09943de21be16941141c5b53596f5c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a46c277098d453b4886db28568d627c283e53a04">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3ef5b3af65a9b48627b118497aba6d0bb6292a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.2_762a1a9a2e90d1a2bc8aabb394753024152105eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\d3ba9b8ea79b99222a754e03648373da7f6d679a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf47665b22d68f560d1b8fa2e51b8c23a34574f2">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a3969eff3235faf28611ac910b61bf182248e71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\74d1ed2d8b85c4314bac22ab793182f54d4e689d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8facbf23b32f3cff7e5abcc52fe5470617fbabdd">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a73b7fcf2dc9b0abfbc3f51c8a62d91a1cab1da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\89056871911d7a977e650a6f965d9c464900ccbe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97db803639d5048210dad144c21af100d592200b">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f66833bbd49253b164d5a2527fe51a9e7b956a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\e6aec7294705bbc0fa3c34fca1d7b5b5454e3182\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92f9417262e774aede4282dc469c121760108404\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\49866a75a504c3fe4739a073b0ceb836b8f0cfb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="469a22d41dfa7503d68c0de0e286f7516f944ff4">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93964f98e014c7bf10a99284fa5cc9c6b85a3e20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\acf5519819f3915d744be07976a40bca495f071a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00802eb02971e2c740c3cb122f88d34481780dcc">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_067113b4edd2bc5300f4b31bf9302d11b602a8ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\59dc3d76cb265c1412582ef509a8f5ca346aaa18\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_291f9c1d0837b24a18c6b0606aeed6ece06b8f52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\8aa48e659dd0f9f8c30085c68cc949507a15c5a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4ff3fa0b085616f1c47379098a37fbfb7685f1dd">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_902cdc7b9d6c0f3a71a7e8c1200cdf4cbf51d387\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\1b5326f63a055da364763b90bf92084a148516f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67fde5b5b4830a81d229eb665a60e36bb0f5928a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\1e3c1226b5178f1f9cad326342a99a611ef0dafd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="27942406f17e8b8e54175fdac0274805b4edcb2f">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0f0252de092675a50728b76933fe526bf0a4576\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\836ce5a74405a588ca694f42da5ba88e64881c6b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f659f641873b827c594392d15a98c3e2e60834fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\315c02edd971a161b30c8aa900be51fa1fa38fd9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f6e937fc4829662d169f20da6f208e053f3714a8">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6cabe65b8386b1f2c60906b4b0f7d50998495e0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\Android Studio\git\HbEy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4300b0f9ca86054c61e9fe6750deb1aeabbc799b">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7bd06d2d1a0d12304a662afd229409117f60dab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\4f5b100205db57671ebdd171ac7a9981ccf9eec1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d60187a85947fe2a5b52339f5ace13d53ed17509">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50d1d47dad25346fe66a879e9b6ce52367eae3f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\2660eb8f0de67f8e798081046552b79fc2696d54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f0086e9ab5e156692eb1f30b68526435c0a0413a">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64e128a5d36e42cee06f77cf2e5d4fa3eca30c39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\1028e50140df97961146188711be483c3ba83ccf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fef1e7957f1df7c5ff164c5fb2ae709bf3d942ee">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74ea41fe6e1849d5551354c213bbb564111403cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\306bea7f2663e1d79f1d8e914e9e775d40b72cc9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2eb6645cc2bcf9fb0710798b7e07cb0f6f11f138">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1eb43b559468df748ee80defbd52f2d74b20c53a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\5c30e496a4ba07740bf3c3be5c8d813dad00b11e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28412876c19be7fe78f2a1fc68181e409a5342f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\2ec74c2243e64804955e6380c923266e98d87daa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bac97150719e3dfae3ab1d38d6ccb187935bfac8">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cdf7389e2e5e74e80ffadd4a35f88ffd14e8af87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\aa28f778b65e355251b58dc49b6fcf0c0485777d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a43035a1c810fd10a647f54fc1166288cf29572">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95572f76347fe7a3c80208e970dbf963d91522bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\145f963342a6d7fca18f77ede5b20680a0a00285\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ad741b1833c64985206f3f994eebc7b48a6afac">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8372483a081b864359889a8a4c48df6b0246df6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.2_d33f1aa27738fa8448415459489c85e37b803a2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\4683c883e2c89cf778e664439c7cbf52f97e3ff6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c40c40059e805809fd4013e6010eb45a35ded9a9">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e008ea15f9f521f053690794244d744fa6e926a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\Android Studio\git\HbEy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0c01b6f6a34f7b3d240ba000a1b2556ab81e63b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\c79dbf6a0f5aff9955fba4a01ec01ffe51b0cc36\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6de60b559084bc9f17f4d8916aaa35e058831696">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_675d3967067b990e3aff5164a8364eaac2c15fcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\437debb0c819d4df26df696f9fbf800feaefaa1d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e769ebe6ad16cdabeddbc352e136e60502f426c">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_708f397c5aa0ddaf3d960a0d287f0504a36936af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\a126f4317184819037f87cee06eb75fc06d5ee38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd65158c56079313c616823c22ef4285b762d004">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7dcbb654a04374e72e51d01b0df2369770f9f52a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\f5b88fe36524a8be5efc28f140554f306940f23b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="671e3171a25ffd26d01b9d7b548ae50374a9e303">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cfa3635a0279e20585d218e310e3492620aa5e14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\1f2422dc4380efc11efa7d4e6aaec7449a797ed3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b6de8f364722211831fe0840d3664d4d25ff7e47">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e19e723db50c81afe3ed0953ecc58e0d1f08800\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\b40bedfabbafca06ad856a0e6d342face4d22bb5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ad5b81d572d36d48b03ae2cc758c820d7748446e">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ff165e7240e78f9b3205416e605237b65bc474b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\5afbc3e59b951ba50135fcb42c56a4344eb95f30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a8f8c58325f0b364e30dca132b248ddabc71415e">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f9689e5911f00780507e60208a5328e5fc32e01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\50a5ab69ff2513972551f9c4a9ebd457e71bbe65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1999decd372635ba83665c523c82472530540cd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\8ce6e6ab661d1a101b4a9ffed73e20b737b15096\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd3da55746526612a99f45cf5939df5b30a23b28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\0ca474fb3c9afdab35ed8c783982508a31389ade\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="700f8f1135982ef49cb91121a76490565f069553">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5aaf4a3764747bb94915ee495577991c06af930\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\3062a921a9c13f21e383321a246c73c1c4c16489\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9affcc1f13383d4a68ddd09d2551201c0ae9ec27">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_228794a2cc12634ba7c91b2516bcceb8434c1236\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\940839c6bc810c3fdae3f9c490f5c6adadb41e8c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ef0e926de4ec20c998d1abd23231c5b37739ec21">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99ad924fdf7babfea91790f096202b72eaae9769\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_dc01743356ea6a9ef9ae86aa0d4597ae52718d0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\6e02bec6ebbf18320d5cef67a020cb76441c7fcf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd6207bd0ab638b69b4ab40f80c04748c0fe3c15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\5cff3c865fc8d7595d9522d5f3cbf768f70c33ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6127c76dd60d86043977b7040f7eb7abe6291d0">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfd925ea3f49380e780eeec153357018ccd5cb6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\fc340ff25742e51025c78fcc0d81b818a89db89b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c14ea0bde487ac0f04d0b6606a111fe5e1a1bd8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\9909e5000655b87cfc7863f11415332e9fd6eeab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7bbca2b0f0ef1033d65acebe7b92de6a6b7e278">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a37b8e811b521eab10f214fe38150f5c9b6c9f8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\ace50871a8ff7c6368b93041e67a2e3712cbac9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4341c4e25d7fca8f84efef07f4d83978d3d41cd">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd7a0998a344811b4d507632c9905fe8c1f1fdb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\d454f7303f2363235a4f40d6a4ec41e44d44f7c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47da7e77043a229f57b151fdcd1e3f614067f34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\37ecf9fa4a117037b9c8874a9cb3862c7830b57a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7ed36108b22a98a311676b5ad153d1e3587fcd16">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9ed12a8b2b9edfd307c1b19e9bff6ca9da710ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\df529fe7bb2303ca4a516aef85f16871825238ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0df3bf618b078d102a4234ceff33c44026e64b9">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27c80d437113698c3be2d7f8a25cd31c6cceea28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\f408e98bb6db41bf53da106b0531d0a4d78c026d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9a9ab7bfebf4a8d5c7fb1ac4e5dcf4bc4d6e3a0e">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a7512a594638ad266d2ec399a41679d64036be5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\092561881678996d7ca095a8332179c8976cf382\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ebfb4479302b2be71766688c87da6d8f16a8d400">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_545fb174bae1efe532d6b18345ddbd5d2bc6b286\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\0ede53b3cd2697c7d539b79746a2a0efc9f057dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="65e43358e942d5181ff49c159e463916c46aaa7a">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d2112a831583f6b5202b461def927ab3fe1dd92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\0ebe03c3872decb88b34246a074ba00570127461\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_900fa5100c34aa9181aea458cf64e4f99950ca97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\12fdf98a186e6a27f282cd6b4cde2a8f3a4f8ecc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65eff04499588263b16c5cd6a3cf71907bd12a9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\adb343b91bbe899a1d16c7a6d3e8d449142e9ea4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_923eeb2687b0da5d4a64d4540f79164c6cc113ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\228359ab2fb8c3e8429e72520087be3ae0b40edb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9882f1ef22641ed1ed56788875a111c0342cb2bb">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46171fa40466258cbcacda16a59a0dec1cce4c78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\594dc5d63f2e25e1f42981df72893b64a24edf48\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3352405f829252e602a47d252f11edd7c89d86ff">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f8ae3351e6caa0ccb8bae951eb97be58abc3123\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\d141b37f597afe6cbfa34cfa59eae322ad586db7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="49a82df028c3d38cecbc2749d3b1ec7e60305840">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51d78b1ffcd0adde1a3510b20ffc85d56ff99fd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\e8f72edf8854df788cb4e7d65db6fdc0a6402b14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b790f50e7cf2ee550ddd659e62a164015a26cc5">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2288b4a887581d2d9cce45f100e2134446be4e18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\0b26fd4f0bed9bf1793062d697becc20aadb4a5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="30553c734f57621f31d6d56ad7b263123c7a014f">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ca4871304b9f7526f5bc518eeac4a26c2703e52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\b9c0e3e6a33c9ad00eb2598cdd671178eb6a6fb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71450fe690d8a88079569bf99db943bc62dcd7e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\7c5c6abf96f2a3d6ba973e7c8a7d6ff84bc3001e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73d3d4e86f3d6da0dd1987f7cff9fb07d5a36132">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f7e70b6787dacb4a6774b7137a96c6896c588a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\5c610f43174bbdfbbe507eb3d9ca68cefc01fd06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="52e53fe7ad13a69d11736cc5b6cd890614a0f8f8">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02a003995b73ec0921e2ffdc7c032731551b6ec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\1d527c91124afa192a4b3b2f60ba00e59712c174\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a1c4ae24ce3c755b3ef7d79a343acfadfb0b097e">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf8a709a924f585e31504c532f09809a9977fd27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\fceab9fd5b46ad89f72d56840a81dcd3ce1d6c3e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4677f6f310d5327f76c7ace262d776b7bf5eb58">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5a132fabffc832c8be44da3d506a3aad26758ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\29617e12a0e02cb9ffeea2d04cf303201e9ef9db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68c3965141866852a5115e80360daae3ddb60d35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\dc5fc2642f6e8023024a97c706fb70e3b27b861d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="35d8afc7b357b4ece9b82c387361cf9ac97097ce">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90b0a410d0cb09c22f389a617327d6780de1dcc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\c813b975e0256abc369fb622f9d7bd23e86c2a86\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bbbd3e1794f79018fadc929941cf41d3a4087baa">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f72b2c93717fecc16d5218c20898a9f69e28fe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\e339fdd22dabdd6d53d0c02429b55314760becbe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="227bbf04b4eae5247addf6569dc42af539a45f37">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_992b289135452d4d625fa0584ab6fda74093a994\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\62987d25b03b0fe52dcb5a478600f29ed30f3d68\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0336b72be536a5d81d3d6a29a637bd16fcbdb0b5">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc936dc54c1fad6faedb0f6ef9e92d4a89247449\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\72fe5c6780e62ccab7b9fc756806e8709b1825e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f9c6b9e876a5dfb3e1c425fca3ffae240333c69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\b8af3768445e2eb50f1326a3debf55979dae65a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8683ee17f4c704b94e2977a8ccdcb14bbe43cff2">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4bbcd4ce5abe7fa3af41b0d225c292be2426b12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\cc94c8257dffc614a6de466e0f28eff7b7821a94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca458cc8610b916343481995f3cf73b7836b73dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\63a4f9cea1899019fde0971692105edff9da6783\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb678ca3e24d9ffc0b128f10857e84b37c7cd436">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3f5a2dfac3f8168fba87d09fe8aab6269dcaac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\bdb07feb048d5345b6e9b4ea9f55909f9028a910\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc37afce4acd3d68cbb00c27808e0d2d44b5df2b">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01a9d29ebe7d94366be2db0d1253f043ba61fef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\9026a58bcf732617f2b75d5d9c3a36d21a91ba45\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b083f9ed76344c2f2b227c56d597f6d08d3fefc8">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd968c42a64604d39c5b4a6cc727d3bcbc2aa55e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\090628e6eb481e798c7da7d3a7c666c0826365e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="24831872c01621a84beba3ddb622703b716ca467">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_759832c16af1a502391041f65f60c92d217bafd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\61ad38e3024433d73e29bb0109b3edaff7f6de52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_adcd19f0e8682845b3d6d0f6c7cae6706d7ec292\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\7fd549bb00b6cb6e1546360ee0b560fe21865503\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_510c618fc8fcef9a51258b09fe0e33be1d3be1de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\31220df64a289ef722a700807d0be33aa29eff0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="20d2483707d80cb36d2fd36500f0a34b61ce2c88">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da6ed748d376184668473b8eb42746947716340e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.android\build-cache\7da3b5e017aa7768cbbbcd82fbf737fdead56886\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b35ff61463403c8aa7820fc2fa7caf6a29e31c2c">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95ac5c826aac7900e4ae1031cda023cb99da0ec6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kautsar Fadly F\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\3.5.0\1e4b144dd28b139ae890ce2868979b12e1f2d7c7\realm-annotations-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e4b144dd28b139ae890ce2868979b12e1f2d7c7">
+        <dex dex="D:\Project\Android Studio\git\HbEy\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-3.5.0_59b4b24510d8011096ec491dd8443f690d3bb98c\classes.dex" />
+    </item>
+
+</items>

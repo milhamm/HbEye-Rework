@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.imvlabs.hbey">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+
+    <application
+        android:name=".baseApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_app"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:supportsRtl="true"
+        tools:replace="android:label">
+        <activity
+            android:name=".HomeActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CalculatingActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_calculating"
+            android:parentActivityName=".HomeActivity" />
+        <activity
+            android:name=".CameraActivity"
+            android:label="@string/title_activity_camera"
+            android:parentActivityName=".CalculatingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DetailActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_detail"
+            android:parentActivityName=".HomeActivity" />
+        <activity
+            android:name=".TutorialActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_tutorial"
+            android:parentActivityName=".HomeActivity" />
+        <activity
+            android:name=".SettingActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_setting"
+            android:parentActivityName=".HomeActivity" />
+        <activity
+            android:name=".AboutActivity"
+            android:label="@string/about"
+            android:parentActivityName=".HomeActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ChartActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,15 @@
+BloodEy, An android application to check our hemoglobin level based on our inside lower eyelid.
+
+Research project with Pak Hilman
+
+Ver 1.0 (BloodEy beta):	
+	Done
+	+ Basic feature done	
+	+ Accuracy <= 80%
+	
+	Yet
+	- Cannot control amount of histroy stored
+	- Snackbar after calculation not yet to be shown
+	- Autocomplete text in checkupmenu, fail
+	- Not working in Android ver > 5.0
+	- Flood fill algorithm yet to be run

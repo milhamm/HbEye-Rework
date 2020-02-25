@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.CardView
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical">
+            <Button
+                android:id="@+id/usertag"
+                android:text="B"
+                android:textColor="@color/white"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:layout_margin="16dp"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/circle_plat"/>
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/username"
+                    android:text="Budi Raharjo"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:id="@+id/userage"
+                    android:text="39 years"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:id="@+id/usergender"
+                    android:text="Male"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_margin="16dp"
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/result_date"
+                    android:gravity="center"
+                    android:text="25/12/15"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:id="@+id/result_status"
+                    android:gravity="center"
+                    android:text="Normal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:id="@+id/result_hb"
+                    android:gravity="center"
+                    android:text="HB: 12.678"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>
