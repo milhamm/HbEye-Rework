@@ -321,8 +321,13 @@ public class CheckUpFragment extends Fragment implements GoogleApiClient.Connect
                 String statusValueOnChart = e.toString().substring(pos1+1  );
 
                 for(int i = 0 ; i < yData.length;i++){
-                    if(yData[i]==Float.parseFloat(statusValueOnChart)){
-                        pos1=i;
+                    try {
+                        float anu = Float.parseFloat(statusValueOnChart);
+                        if(yData[i]==anu){
+                            pos1=i;
+                        }
+                    } catch(NumberFormatException ex) {
+                        Log.d(TAG, "Masuk SIni cuy");
                     }
                 }
                 String statusOnChart = xData[pos1+1];

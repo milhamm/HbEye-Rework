@@ -16,6 +16,7 @@ import android.view.MenuItem;
 import android.view.WindowManager;
 import android.widget.Toast;
 
+import com.google.firebase.FirebaseApp;
 import com.imvlabs.hbey.Adapter.HomePagerAdapter;
 
 public class HomeActivity extends AppCompatActivity {

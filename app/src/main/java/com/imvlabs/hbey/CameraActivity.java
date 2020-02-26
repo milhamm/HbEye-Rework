@@ -9,6 +9,7 @@ import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
+import android.hardware.Camera;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
@@ -44,14 +45,9 @@ public class CameraActivity extends AppCompatActivity implements OnPictureReadyL
         public void onClick(View v) {
             Log.e(TAG, "OK selected");
             Intent data = new Intent();
-            if (status == 1) {
-//                data.putExtra(CameraState, ((Camera2) cameraHandler).cameraId == Camera.CameraInfo.CAMERA_FACING_BACK);
-                data.putExtra(CameraState, true);
-                setResult(RESULT_OK, data);
-            } else {
-//                data.putExtra(CameraState, ((CameraOld) cameraHandler).currentCameraId == Camera.CameraInfo.CAMERA_FACING_BACK);
-//                setResult(RESULT_OK, data);
-            }
+//            data.putExtra(CameraState, ((Camera2) cameraHandler).cameraId == Camera.CameraInfo.CAMERA_FACING_BACK);
+            data.putExtra(CameraState, false);
+            setResult(RESULT_OK, data);
             data.putExtra("IMAGE", pictureData);
             data.putExtra("DIRECTION", direction);
             Log.e(TAG, "mau finish " + pictureData.length);

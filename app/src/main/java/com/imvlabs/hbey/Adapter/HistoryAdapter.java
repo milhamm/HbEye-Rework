@@ -19,6 +19,7 @@ import com.imvlabs.hbey.R;
 
 import java.util.Date;
 
+import io.realm.OrderedRealmCollection;
 import io.realm.RealmRecyclerViewAdapter;
 import io.realm.RealmResults;
 
@@ -26,6 +27,11 @@ import io.realm.RealmResults;
  * Define persons history adapters
  */
 public class HistoryAdapter extends RealmRecyclerViewAdapter<Person, HistoryAdapter.ViewHolder> {
+
+    public  HistoryAdapter(OrderedRealmCollection<Person> results){
+        super(results, true);
+    }
+
     final static String TAG = "HistoryAdapter";
     Context context;
 
@@ -43,10 +49,12 @@ public class HistoryAdapter extends RealmRecyclerViewAdapter<Person, HistoryAdap
         viewHolder.setUsername(person.getUser_name());
         viewHolder.setUserAge(person.getAge());
         viewHolder.setUserGender(person.isMale());
-
+        Log.d(TAG, "Sebelum Resrult");
         // latest Result
         final ResultData resultData = person.getResults().last();
+        Log.d(TAG, "Sebelum IF");
         if (resultData!=null) {
+            Log.d(TAG, "Masuk IF");
             viewHolder.setDate(resultData.getTaken_date());
             viewHolder.setStatus(resultData.getHbLevel(), person.isMale());
             viewHolder.setHb(resultData.getHbLevel());
@@ -58,6 +66,8 @@ public class HistoryAdapter extends RealmRecyclerViewAdapter<Person, HistoryAdap
                     moveToDetailActivity(person.getUser_name());
                 }
             });
+        } else{
+            Log.d(TAG, "Abis Ini Masuk Else");
         }
     }
 
